@@ -1,8 +1,8 @@
-# Ukrainian Question and Answering
+# ❓ Ukrainian Question and Answering
 Scripts for finetuning models for Question Answering task
 
-## [Ukrainian Extractive Question Answering model](https://huggingface.co/robinhad/ukrainian-qa)
-This model is a fine-tuned version of [ukr-models/xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) on the [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) dataset.
+## [🔍 Ukrainian Extractive Question Answering model](https://huggingface.co/robinhad/ukrainian-qa)
+This [model](https://huggingface.co/robinhad/ukrainian-qa) is a fine-tuned version of [ukr-models/xlm-roberta-base-uk](https://huggingface.co/ukr-models/xlm-roberta-base-uk) on the [UA-SQuAD](https://github.com/fido-ai/ua-datasets/tree/main/ua_datasets/src/question_answering) dataset.
 
 Example (generated):  
 Question: `Що відправлять для ЗСУ?`  
