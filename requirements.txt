@@ -1,0 +1,6 @@
+transformers==4.19.2
+datasets==2.2.2
+sentencepiece==0.1.96
+
+tensorboard
+torch
